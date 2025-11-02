@@ -5,3 +5,8 @@ scikit-learn
 seaborn
 optuna
 plotly
+cuda-python
+torch
+torchvision
+ftfy
+regex
